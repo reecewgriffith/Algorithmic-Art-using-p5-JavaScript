@@ -2,6 +2,9 @@
 Art made using the p5js project and algorithmic programming.
 
 ## Basics
-You can get an introduction for what you need here... http://reecewgriffith.com/blogs/bl3.html
-Source code for tutorials here... https://github.com/rgriffith98/p5-Tutorials
-Video tutorials here... https://www.youtube.com/user/shiffman/playlists?shelf_id=14&sort=dd&view=50
+- You can get an introduction for what you need here... http://reecewgriffith.com/blogs/bl3.html
+- Source code for tutorials here... https://github.com/rgriffith98/p5-Tutorials
+- Video tutorials here... https://www.youtube.com/user/shiffman/playlists?shelf_id=14&sort=dd&view=50
+
+## Quickstart
+Download brachets and this repo, then live preview the sketch js files individually to see a live preview
