@@ -9,7 +9,7 @@ function setup() {
 function draw() {
     background(0);
     noFill(255);
-    strokeWeight(3);
+    strokeWeight(5);
     stroke(random(255),random(255), 255);
     
     // We are going to draw a polygon out of the wave points
@@ -110,4 +110,12 @@ function draw() {
     fill(0);
     stroke(0);
     rect(width - 5, 0, 10, height);
+    
+    fill(0);
+    stroke(0);
+    rect(0, 0, width, 20);
+    
+    fill(0);
+    stroke(0);
+    rect(0, height - 20, width, 20);
 }
