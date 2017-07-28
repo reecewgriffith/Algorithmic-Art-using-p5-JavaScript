@@ -1,5 +1,5 @@
-# p5-JavaScript-Art
-Art made using the p5js project and algorithmic programming.
+# Playing with p5
+Projects made using the p5js project and algorithmic programming.
 
 ## Basics
 - You can get an introduction for what you need here... http://reecewgriffith.com/blogs/bl3.html
